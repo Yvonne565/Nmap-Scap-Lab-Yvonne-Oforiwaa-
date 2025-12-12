@@ -95,11 +95,13 @@ Stored and inspected:
 paro3 = _
 paro3.summary()
 paro3[3]
+
  5. Key Learnings
 Nmap can detect live hosts, services, versions, and OS fingerprints.
 SMB enumeration revealed possible anonymous access weaknesses.
 Scapy allows live packet sniffing and analyzing ICMP, DNS, ARP, and more.
 Using filters makes packet capture more targeted and efficient.
 Hands-on testing shows how attackers gather information early in a penetration test.
-🏁 6. Conclusion
+
+ 6. Conclusion
 This lab strengthened my practical understanding of reconnaissance using Nmap and packet analysis using Scapy. Scanning, enumeration, and sniffing are critical steps in ethical hacking, and these exercises improved my confidence with real cybersecurity tools.
