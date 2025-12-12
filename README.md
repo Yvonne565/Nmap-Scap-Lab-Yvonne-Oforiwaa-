@@ -1,4 +1,4 @@
-Nmap & Scapy Lab Documentation
+NMAP & SCAPY LAB DOCUMENTATION
 
 1. Introduction
 This lab focused on practicing network scanning, service enumeration, and packet sniffing using Nmap and Scapy.
